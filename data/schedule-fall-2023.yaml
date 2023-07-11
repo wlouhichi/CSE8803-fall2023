@@ -74,6 +74,9 @@ tableRows:
       - Fall break
       - "Neural Network (fully connected)"
       - "Word2vec: CBoW, Skip-Gram"
+    Homework:
+      - "**HW2 due 10/13**"
+      - "HW3 out 10/13"
     Quizzes: "Quiz 4 | week 6| out 10/06 - due 10/12"
     Readings:
       - "[NN Playground](https://playground.tensorflow.org/)"
@@ -89,9 +92,6 @@ tableRows:
     Topics:
       - "CNN"
       - "RNN"
-    Homework:
-      - "**HW2 due 10/20**"
-      - "HW3 out 10/20"
     Quizzes: "Quiz 5 | week 8| out 10/13 - due 10/17"
     Readings:
       - "[CNN Live Demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html);"
