@@ -33,7 +33,7 @@ All Georgia Tech students have FREE access to https://www.oreilly.com, where you
 - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) by Trevor Hastie, Robert Tibshirani, and Jerome Friedman
 
 ## Probability
-- FREE [probability book](http://theanalysisofdata.com/probability/0_2.html), by Prof. Guy Lebanon (From [Amazon](http://www.amazon.com/Probability-Analysis-Data-Guy-Lebanon/dp/1479344761/)
+- FREE [probability book](http://theanalysisofdata.com/probability/0_2.html), by Prof. Guy Lebanon (From [Amazon](http://www.amazon.com/Probability-Analysis-Data-Guy-Lebanon/dp/1479344761/))
 
 ## Human Computation
 - [Human Computation book](https://www.morganclaypoolpublishers.com/doi/abs/10.2200/S00371ED1V01Y201107AIM013) by Edith Law and Luis von Ahn
@@ -45,5 +45,5 @@ All Georgia Tech students have FREE access to https://www.oreilly.com, where you
 
 - If you use Mac, we recommend to also check out [The right and wrong way to set Python 3 as default on a Mac](https://opensource.com/article/19/5/python-3-default-mac). 
 
-- Students in my research group said that [Poetry](https://python-poetry.org) seems to be fast replacing conda envs, and may even replace setuptools for pypi packages in the future. 
+- Explore using [Poetry](https://python-poetry.org) which seems to be fast replacing conda envs, and may even replace setuptools for pypi packages in the future. 
 
