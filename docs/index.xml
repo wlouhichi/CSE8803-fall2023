@@ -12,8 +12,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/grading/categories/</guid>
-      <description>Categories#Assignments (50%)#There will be four assignments. Each one is designed to improve and test your understanding of the materials. Assignments will have both programming and written analysis components.
-We have 4 big assignments in total. The reason we do not call them projects is because our class has a project as well. Consider each assignment as one individual big project. Assignments take time to finish them.</description>
+      <description>Categories # Assignments (85%) # We have 4 big assignments in total (subject to change). Visit this course&amp;rsquo;s Gradescope site for the assignment documents. See the schedule table above for deliverable due dates.
+[20%] HW1: Week 1 to Week 3 topics [20%] HW2: Week 4 to Week 7 topics [20%] HW3: Week 8 to Week 10 topics [25%] HW4: Week 11 to end. We do not release solutions for homework.</description>
     </item>
     
     <item>
@@ -22,8 +22,7 @@ We have 4 big assignments in total. The reason we do not call them projects is b
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/resources/collection/</guid>
-      <description>Resource Collection#Helpful Texts#No textbook will be required for this course, however you are strongly encouraged to complete the readings indicated for each class. You may also find the following books very helpful:
-Learning from data, by Yaser S. Abu-Mostafa Pattern recognition and machine learning, by Christopher Bishop Machine learning, by Tom Mitchell Data Mining: Concepts and Techniques, by Jiawei Han, Micheline Kamber, and Jian Pei The Elements of Statistical Learning, by Trevor Hastie, Robert Tibshirani, and Jerome Friedman Deep Learning, by Ian Goodfellow, Yoshua Bengio, and Aaron Courville Other resources, such as machine learning toolboxes and datasets, will be provided throughout the course.</description>
+      <description>Resource Collection # Recommended Reading # All content and course materials can be accessed online. There is no textbook for this course. All Georgia Tech students have FREE access to https://www.oreilly.com, where you can find a huge number of highly rated and classic books (e.g., the &amp;ldquo;animal&amp;rdquo; books) from O&amp;rsquo;Reilly and Pearson covering a wide variety of computer science topics, including some of those listed below. Just log in with your official GT email address, e.</description>
     </item>
     
     <item>
@@ -32,8 +31,12 @@ Learning from data, by Yaser S. Abu-Mostafa Pattern recognition and machine lear
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/course-info/course-overview/</guid>
-      <description>Course Overview#Important
-CSE students should note that CS 7641 is not allowed as a substitute for the CSE core course CSE 6740, and that they cannot get credit for both CSE 6740 and CS 7641.This course introduces techniques in machine learning with an emphasis on algorithms and their applications to real-world data. We will investigate the following question: how to computationally extract useful knowledge from data for decision making and task support!</description>
+      <description>Course Goals # Analyze NLP techniques and apply them to text data. The course is divided into three main categories:
+Preprocessing: Demonstrate how to clean and integrate text data
+Processing: Apply NLP algorithms on your pre-processed data to perform different tasks
+Post-processing: Evaluate your developed NLP models.
+Solve problems with real datasets Apply practical know-how (useful for jobs, research) through significant hands-on programming assignments
+Course Pre- and/or Co-Requisites # Review our &amp;ldquo;warnings&amp;rdquo; before taking this course.</description>
     </item>
     
     <item>
@@ -42,7 +45,7 @@ CSE students should note that CS 7641 is not allowed as a substitute for the CSE
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/guidelines/general/</guid>
-      <description>General#Attendance#Our class will be offered on campus for both Undergrad (4641) and Grad (7641). Lectures might be recorded IF class has the recording system. Any class that I am able to record [which sometimes does not work even if we have the recording system in place], I will make it available to all students (both undergrad and grad) by the end of the day. The attendance is required for both undergrad and grad.</description>
+      <description>General # Attendance # This is a fully online course. Login on a regular basis to complete your work, so that you do not have to spend a lot of time reviewing and refreshing yourself regarding the content. Class Deliverables # All class deliverables will be handled via Gradescope except quizzes which will be on Canvas. The time span offered to complete the course objectives is plentiful and deadlines will not be extended under any circumstances.</description>
     </item>
     
     <item>
@@ -51,7 +54,7 @@ CSE students should note that CS 7641 is not allowed as a substitute for the CSE
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/course-info/instructors-and-tas/</guid>
-      <description>Instructors and TAs#Instructor#Max Mahdi Roozbahanimahdir@gatech.eduhttps://mahdi-roozbahani.github.io/Head TAs#Huili Huanghhuang413@gatech.eduTAs#Parisa Babolhavaejipbabolhavaeji3@gatech.eduNeda Tavakolintavakoli6@gatech.eduMatthew Laumlau40@gatech.eduZongao Bianzbian30@gatech.edu</description>
+      <description> Instructors and TAs # Instructor # Max Mahdi Roozbahani mahdir@gatech.edu https://mahdi-roozbahani.github.io/ Wafa Louhichi wlouhichi3@gatech.edu https://www.linkedin.com/in/wafa-louhichi/ Nimisha Roy nroy9@gatech.edu https://nimisharoy9.wixsite.com/myportfolio Head TAs # Ruslina Utomo rutomo6@gatech.edu TAs # Faizan Hasan fhasan8@gatech.edu Ashwin Pathak apathak60@gatech.edu Mehul Soni mehul.soni918@gatech.edu Daanish M Mohammed dmohammed7@gatech.edu Ruijia Wang rwang@gatech.edu Rohit Das rohdas@gatech.edu </description>
     </item>
     
     <item>
@@ -60,19 +63,7 @@ CSE students should note that CS 7641 is not allowed as a substitute for the CSE
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/guidelines/office-hours/</guid>
-      <description>Office Hours#Overview#Office hours will start on the second week of clases in a hybrid mode for both online and in-person. Please follow the instruction on this Excel Sheet [Grad|Undergrad] ​to signup for a 10-minutes slot with one of the TAs. If you require more than ten minutes, please advise the TAs. They’ll return to your Zoom meeting once they have completed their appointments with other students.</description>
-    </item>
-    
-    <item>
-      <title>Project Breakdown</title>
-      <link>/docs/grading/project-breakdown/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/grading/project-breakdown/</guid>
-      <description>Project Breakdown#The course semester long project is worth 30% of your grade, and is composed of the parts below
-Proposal (5%)#A project proposal should be written on your GitHub page. It is also a good starter to come up with the first draft of your project.
-You need to provide us the link to your GitHub page. Make sure your GitHub repository is private.
-It should be less than 500 words single spaced.</description>
+      <description>Office Hours # Overview # TAs plan to hold office hours starting week 2, except on Georgia Tech holidays (e.g., thanksgiving, MLK day, spring break). Each office hour session will be run by at least one TA, and is 1 hour long. See GT’s academic calendar for the full list of holidays https://registrar.gatech.edu/calendar. We will spread the office hours across weekdays, and across time of the day. We will announce the office hour times.</description>
     </item>
     
     <item>
@@ -81,10 +72,10 @@ It should be less than 500 words single spaced.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/course-info/course-schedule/</guid>
-      <description>Schedule#Important
+      <description> Schedule # Important
 All deadline and due dates in this course will be at 23:59 ET.
-Scroll horizontally to see the full schedule table on mobile devicesAstericks (*) indicate that the lecture slides/notes are available.
-WeekDatesTopicsHomeworkQuizzesProjectReadings15/15 - 5/19*Course Overview (L1)*Linear Algebra (*Notes, L2)Q0 - L1 | Q1 - L2GT Honor Code;Heilmeier catechism;Visual Information Theory by Chris Olah;GitHub Pages;YAML Configuration;Overleaf for GT students;Linear Algebra Review by Zico Kolter;25/22 - 5/26*Prob and Stats (*Notes, L3)*Info Theory (*Notes, L4)A1 out 5/22Q2 - L3 | Q3 - L4 | Syllabus QuizProject team composition due 5/26Independence, Coorelation, OrthogonalityCorrelation vs Covariance;The Differences Between Data, Information and KnowledgeCross Entropy as loss functionMore about Cross Entropy and KLD;Probability Theory Review by Andrew Moore;35/29 - 6/2Memorial Day Holiday*Optimization (L5)*Toolbox - P1/P2 (L5)Q4 - L5[Debugging Common Errors in NumPy](/other/Debugging Common Errors in NumPy.</description>
+Scroll horizontally to see the full schedule table on mobile devices Astericks (*) indicate that the lecture slides/notes are available.
+Week Dates Topics Homework Quizzes Project Readings 1 8/21 - 8/25 Course introduction Text data preprocessing: Normalization, lemmatization, stemming, stop words removal&amp;hellip; 2 8/28 - 9/01 Text Representations: One hot encoding BoW (frequency counting) TF-IDF HW1 out 9/01 Quiz 0 | Knowledge-based | out 8/25 - due 9/01 3 9/04 - 9/08 Labor Day Holiday Classification Introduction Naive Bayes Classification Model Evaluation: accuracy, precision, recall, confusion matrix Quiz 1 | week 1 and 2| out 9/01 - due 9/06 4 9/11 - 9/15 Focus on HW1 Quiz 2 | week 3| out 9/08 - due 9/12 5 9/18 - 9/22 Logistic Regression SVM Perceptron *Density Estimation (*Notes L10-B) HW1 due 9/22 HW2 out 9/22 6 9/25 - 9/29 SVD (Dimensionality Reduction) + Co-occurrence embeddings Glove Quiz 3 | week 5| out 9/22 - due 9/26 GloVe: Global Vectors for Word Representation 7 10/2 - 10/6 Focus on HW2 8 10/9 - 10/13 Fall break Neural Network (fully connected) Word2vec: CBoW, Skip-Gram Quiz 4 | week 6| out 10/06 - due 10/12 NN Playground Interactive NN initialization; The role of a hidden layer; Back propagation numerical example; More detailed introduction; Efficient Estimation of Word Representations in Vector Space 9 10/16 - 10/20 CNN (use the chart, provide some explainability RNN (quick overview as an intro to LSTM) HW2 due 10/20 HW3 out 10/20 Quiz 5 | week 8| out 10/13 - due 10/17 CNN Live Demo; A guide to an efficient way to build CNN and optimize its hyper-parameters; Back Propagation in CNN; Transfer learning in CNN; 10 10/23 - 10/27 Focus on HW3 Quiz 6 | week 9| out 10/20 - due 10/24 11 10/30 - 11/03 LSTM and GRU LSTM + Attention (Focus on Attention mechanism) HW3 due 11/03 HW4 out 11/03 12 11/06 - 11/10 Transformer models Examples: BERT(Bidirectional Encoder Representations from Transformers) and GPT (Generative Pre-trained Transformer) Quiz 7 | week 11| out 11/03 - due 11/07 Attention Is All You Need; BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding; 13 11/13 - 11/17 Sequence Labelling: POS Tagging Sequence Labelling: NER Quiz 8 | week 12| out 11/10 - due 11/14 14 11/20 - 11/24 Unsupervised Models Student Recess Holiday Thanksgiving Break Quiz 9 | week 13| out 11/17 - due 11/21 15 11/27 - 12/01 Topic Modeling (Latent Semantic Indexing, LDA (Latent Dirichlet Allocation) HW4 due 12/01 Quiz 10 | week 14 and 15| out 11/30 - due 12/04 </description>
     </item>
     
     <item>
@@ -93,7 +84,7 @@ WeekDatesTopicsHomeworkQuizzesProjectReadings15/15 - 5/19*Course Overvi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/guidelines/diversity-and-inclusion/</guid>
-      <description>Diversity &amp;amp; Inclusion#Just as machine learning algorithms cannot accomplish complex tasks if trained on datasets of limited variability, our course cannot be successful without appreciating the diversity of our students. In this class we aim to create an environment where all voices are valued, respecting the diversity of gender, sexuality, age, socioeconomic status, ability, ethnicity, race, and culture. We always welcome suggestions that can help us achieve this goal.</description>
+      <description>Diversity &amp;amp; Inclusion # Just as machine learning algorithms cannot accomplish complex tasks if trained on datasets of limited variability, our course cannot be successful without appreciating the diversity of our students. In this class we aim to create an environment where all voices are valued, respecting the diversity of gender, sexuality, age, socioeconomic status, ability, ethnicity, race, and culture. We always welcome suggestions that can help us achieve this goal.</description>
     </item>
     
     <item>
@@ -102,7 +93,7 @@ WeekDatesTopicsHomeworkQuizzesProjectReadings15/15 - 5/19*Course Overvi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/guidelines/covid-19/</guid>
-      <description>COVID-19#This semester is challenging due to the ongoing Covid-19 pandemic and a growing awareness of inequities. Please review the most up-to-date information relates to specific services and guidelines for courses during this semester at TECH Moving Forward website and in the Academic Restart Frequently Asked Questions.</description>
+      <description>COVID-19 # This semester is challenging due to the ongoing Covid-19 pandemic and a growing awareness of inequities. Please review the most up-to-date information relates to specific services and guidelines for courses during this semester at TECH Moving Forward website and in the Academic Restart Frequently Asked Questions.</description>
     </item>
     
   </channel>
