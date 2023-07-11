@@ -23,7 +23,7 @@ All Georgia Tech students have FREE access to https://www.oreilly.com, where you
 
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.safaribooksonline.com/library/view/design-patterns-elements/0201633612/)
 
-- [The Pragmatic Programmer: From Journeyman to Master<](https://www.safaribooksonline.com/library/view/the-pragmatic-programmer/020161622X/)
+- [The Pragmatic Programmer: From Journeyman to Master](https://www.safaribooksonline.com/library/view/the-pragmatic-programmer/020161622X/)
 
 ## Python
 - [Python Bootcamp](https://datamastery.gitlab.io/msabc/), for campus [MS Analytics students](https://analytics.gatech.edu"). By Chris Simpkins
